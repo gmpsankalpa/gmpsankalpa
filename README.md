@@ -33,11 +33,12 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 ## :mailbox_with_mail: Connect with me
 
-[![Facebook](https://img.shields.io/facebook/follow/openai?style=social)](https://twitter.com/openai)
-[![Instagram](https://img.shields.io/instagram/follow/openai?style=social)](https://www.linkedin.com/company/openai/)
-[![Twitter](https://img.shields.io/twitter/follow/openai?style=social)](https://twitter.com/openai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/company/openai/)
-[![GitHub](https://img.shields.io/github/followers/openai?label=Follow&style=social)](https://github.com/openai) <br>
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **Twitter:** [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- **Instagram:** [@YourInstagramHandle](https://www.instagram.com/your-instagram-handle)
+- **Facebook:** [Your Facebook Profile](https://www.facebook.com/your-facebook-profile)
+- **GitHub:** [Your GitHub Profile](https://github.com/your-github-handle)
+- **Discord:** YourDiscordHandle#1234<br>
 
 Thanks for stopping by! :wave:
 
