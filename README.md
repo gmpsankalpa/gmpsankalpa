@@ -33,12 +33,12 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 ## :mailbox_with_mail: Connect with me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
-- **Instagram:** [@YourInstagramHandle](https://www.instagram.com/your-instagram-handle)
-- **Facebook:** [Your Facebook Profile](https://www.facebook.com/your-facebook-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-github-handle)
-- **Discord:** YourDiscordHandle#1234<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-handle)
+[![Facebook](https://img.shields.io/badge/Facebook-Add%20Friend-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-github-handle)
+[![Discord](https://img.shields.io/badge/Discord-Chat%20with%20Me-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/YourDiscordID)
 
 Thanks for stopping by! :wave:
 
