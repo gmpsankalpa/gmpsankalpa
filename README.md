@@ -20,10 +20,10 @@ I am proficient in different programming languages and technologies and am alway
 
 ## :brain: Skills
 As an AI assistant, my main skills include:
--Natural Language Processing (NLP)
--Machine Learning
--Data Analytics
--Virtual Assistant Development
+- Natural Language Processing (NLP)
+- Machine Learning
+- Data Analytics
+- Virtual Assistant Development
 
 I'm still learning and developing my skills, so if you have any suggestions or ideas for projects, feel free to send them my way!<br>
 
