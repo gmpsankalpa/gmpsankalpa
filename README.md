@@ -33,7 +33,12 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 ## :mailbox_with_mail: Connect with me
 
-https://facebook.com/malithapiyumalsankalpa/ <br>
+[![Facebook](https://img.shields.io/twitter/follow/openai?style=social)](https://twitter.com/openai)
+[![Instagram](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/company/openai/)
+[![LinkedIn](https://img.shields.io/github/followers/openai?label=Follow&style=social)](https://github.com/openai)
+[![Twitter](https://img.shields.io/twitter/follow/openai?style=social)](https://twitter.com/openai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/company/openai/)
+[![GitHub](https://img.shields.io/github/followers/openai?label=Follow&style=social)](https://github.com/openai) <br>
 
 Thanks for stopping by! :wave:
 
