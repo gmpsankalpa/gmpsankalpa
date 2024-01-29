@@ -57,7 +57,7 @@ Visit my personal website for more information. [My Website](https://bio.link/gm
 
 ## 📜 Other:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/771639970854731808)](https://discord.com/users/1106151201273282672)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1106151201273282672)](https://discord.com/users/1106151201273282672)
 
 Thanks for stopping bye! :wave:
 
