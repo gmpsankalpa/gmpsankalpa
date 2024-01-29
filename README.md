@@ -32,7 +32,7 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmpsankalpa&show_icons=true&hide_border=true&count_private=true)](https://github.com/gmpsankalpa) <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmpsankalpa&show_icons=true&hide_border=true&count_private=true)](https://github.com/gmpsankalpa) <br>
 
 ## :mailbox_with_mail: Connect with me
 
