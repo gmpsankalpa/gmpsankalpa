@@ -44,16 +44,9 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 ---
 [![](https://visitcount.itsvg.in/api?id=gmpsankalpa&icon=0&color=10)](https://visitcount.itsvg.in)
 
-## :mailbox_with_mail: Connect with me
-
+## 🌐 Socials:
 Feel free to reach out to me on different platforms.
-
-[![Facebook](https://img.shields.io/badge/Facebook-Add%20Friend-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/malithapiyumalsankalpa/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/malitha_p_sankalpa/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malithapiyumal/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Malitha_piyuma)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gmpsankalpa)
-[![Discord](https://img.shields.io/badge/Discord-Chat%20with%20Me-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/cx96RbmGXX)<br>
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sankacrew) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cx96RbmGXX) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/malithapiyumalsankalpa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malitha_p_sankalpa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malithapiyumal) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/malithapiyumal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Malitha-Piyumal-Sankalpa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Malitha_piyuma) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCi_iSCxhm43xpT4TnlWorwQ)
 
 ## 🌐: Website
 
