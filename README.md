@@ -30,15 +30,19 @@ As an AI assistant, my main skills include:
 
 I'm still learning and developing my skills, so if you have any suggestions or ideas for projects, feel free to send them my way!<br>
 
-## :chart_with_upwards_trend: GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gmpsankalpa&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gmpsankalpa&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmpsankalpa&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmpsankalpa&show_icons=true&theme=radical)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gmpsankalpa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmpsankalpa&layout=compact&show_icons=true&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gmpsankalpa&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-[![wakatime](https://wakatime.com/badge/user/018d535b-bfa6-4a14-b7e8-af0ffa6e870e.svg)](https://wakatime.com/@gmpsankalpa)
-
-[![github-views](https://komarev.com/ghpvc/?username=gmpsankalpa&style=for-the-badge)](https://github.com/duesacrifice69)
+---
+[![](https://visitcount.itsvg.in/api?id=gmpsankalpa&icon=0&color=10)](https://visitcount.itsvg.in)
 
 ## :mailbox_with_mail: Connect with me
 
