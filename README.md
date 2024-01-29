@@ -34,6 +34,8 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmpsankalpa&show_icons=true&hide_border=true&count_private=true)](https://github.com/gmpsankalpa) <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmpsankalpa&layout=compact&show_icons=true&theme=radical)
+
 ## :mailbox_with_mail: Connect with me
 
 Feel free to reach out to me on different platforms.
