@@ -36,7 +36,7 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmpsankalpa&layout=compact&show_icons=true&theme=radical)
 
-[![wakatime](https://wakatime.com/badge/user/018af927-df27-43d7-8f57-d7829ded732a.svg)](https://wakatime.com/@gmpsankalpa)
+[![wakatime](https://wakatime.com/badge/user/018d535b-bfa6-4a14-b7e8-af0ffa6e870e.svg)](https://wakatime.com/@gmpsankalpa)
 
 [![github-views](https://komarev.com/ghpvc/?username=gmpsankalpa&style=for-the-badge)](https://github.com/duesacrifice69)
 
