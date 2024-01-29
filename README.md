@@ -36,6 +36,8 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmpsankalpa&layout=compact&show_icons=true&theme=radical)
 
+[![github-views](https://komarev.com/ghpvc/?username=gmpsankalpa&style=for-the-badge)](https://github.com/duesacrifice69)
+
 ## :mailbox_with_mail: Connect with me
 
 Feel free to reach out to me on different platforms.
