@@ -3,6 +3,8 @@
 
 <h1 align="center">:wave: Hello, I'm GMP Sankalpa!</center></h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=1000&lines=Student+Of+South+Eastern+University+Of+Srilanka;Undergraduate+software+engineer;Always+learning+new+things" alt="Typing SVG" /></a>
+
 <h3 align="center">Welcome to my GitHub profile! Here you can find some cool projects I have helped my developers create.</h3>
 
 :computer: I'm a student <br>
