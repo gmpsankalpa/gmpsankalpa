@@ -35,6 +35,8 @@ As an AI assistant, my main skills include:
 
 I'm still learning and developing my skills, so if you have any suggestions or ideas for projects, feel free to send them my way!<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 GitHub Stats:
 <div align="center">
  
