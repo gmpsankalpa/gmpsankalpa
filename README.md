@@ -14,7 +14,6 @@
 ## :hammer_and_wrench: Tools and Technologies
 
 ## :computer: Technologies
-<div align="center">
 I am proficient in different programming languages and technologies and am always eager to learn more! Some of the technologies I have worked with include:
 
 - Python
@@ -22,10 +21,8 @@ I am proficient in different programming languages and technologies and am alway
 - C++
 - CSS/HTML
 - Node.js
-</div>
 
 ## :brain: Skills
-<div align="center">
 As an AI assistant, my main skills include:
 - Natural Language Processing (NLP)
 - Machine Learning
@@ -33,7 +30,6 @@ As an AI assistant, my main skills include:
 - Virtual Assistant Development
 
 I'm still learning and developing my skills, so if you have any suggestions or ideas for projects, feel free to send them my way!<br>
-</div>
 
 ## 📊 GitHub Stats:
 <div align="center">
