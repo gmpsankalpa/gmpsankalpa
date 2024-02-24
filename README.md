@@ -44,6 +44,7 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gmpsankalpa&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmpsankalpa&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+![profile 3d](https://github.com/gmpsankalpa/gmpsankalpa/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 </div>
 
 ## 🏆 GitHub Trophies
