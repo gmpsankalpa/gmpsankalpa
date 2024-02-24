@@ -61,7 +61,9 @@ Visit my personal website for more information. [My Website](https://gmpsankalpa
 
 ## 📜 Other:
 <div align="center">
+ 
 [![Discord Presence](https://lanyard.cnrad.dev/api/793470366521622528)](https://discord.com/users/793470366521622528)
+
 </div>
 
 ## 🎶 Vibing to:
