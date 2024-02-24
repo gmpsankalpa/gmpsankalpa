@@ -11,9 +11,11 @@
 :house_with_garden: I'm from Galewela, Sri Lanka.<br>
 :books: I'm currently learning South Eastern University of Sri Lanka <br>
 
+<div align="center">
 ## :hammer_and_wrench: Tools and Technologies
+</div>
 
- ## :computer: Technologies
+## :computer: Technologies
 
 I am proficient in different programming languages and technologies and am always eager to learn more! Some of the technologies I have worked with include:
 
@@ -97,10 +99,18 @@ Visit my personal website for more information. [My Website](https://gmpsankalpa
 </div>
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gmpsankalpa ) 
+<div align="center">
+ 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gmpsankalpa )
+
+</div>
 
 ##
+<div align="center">
+ 
 Thanks for stopping bye! :wave:
+
+</div>
 
 
 
