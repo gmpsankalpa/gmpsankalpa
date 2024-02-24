@@ -32,15 +32,25 @@ As an AI assistant, my main skills include:
 
 I'm still learning and developing my skills, so if you have any suggestions or ideas for projects, feel free to send them my way!<br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
+<div align="center">
+ 
 ![](https://github-readme-stats.vercel.app/api?username=gmpsankalpa&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gmpsankalpa&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmpsankalpa&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+</div>
+
 ## 🏆 GitHub Trophies
+<div align="center">
+ 
 ![](https://github-profile-trophy.vercel.app/?username=gmpsankalpa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+</div>
+
 ### 🔝 Top Contributed Repo
+<div align="center">
+ 
 ![](https://github-contributor-stats.vercel.app/api?username=gmpsankalpa&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
@@ -48,13 +58,22 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 [![wakatime](https://wakatime.com/badge/user/018d535b-bfa6-4a14-b7e8-af0ffa6e870e.svg)](https://wakatime.com/@018d535b-bfa6-4a14-b7e8-af0ffa6e870e)
 
+</div>
+
 ## 🌐 Socials:
+<div align="center">
+ 
 Feel free to reach out to me on different platforms.<br>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sankacrew) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rkapD38Sad) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/malithapiyumalsankalpa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malitha_p_sankalpa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malithapiyumal) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/malithapiyumal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Malitha-Piyumal-Sankalpa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Malitha_piyuma) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCi_iSCxhm43xpT4TnlWorwQ)
 
-## 🌐: Website
+</div>
 
+## 🌐: Website
+<div align="center">
+ 
 Visit my personal website for more information. [My Website](https://gmpsankalpa.xyz)
+
+</div>
 
 # 💻 Tech Stack:
 <div align="center">
