@@ -50,7 +50,7 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 ### ✍️ Random Dev Quote
 <div align="center">
  
-> "Don't worry if it doesn't work right. If everything did, you'd be out of a job." - **Brian Kernighan**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
