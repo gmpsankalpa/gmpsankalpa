@@ -3,7 +3,11 @@
 
 <h1 align="center">:wave: Hello, I'm GMP Sankalpa!</center></h1>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=1000&lines=Student+Of+South+Eastern+University+Of+Srilanka;Undergraduate+software+engineer;Always+learning+new+things" alt="Typing SVG" /></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Welcome to my GitHub profile! Here you can find some cool projects I have helped my developers create.</h3>
 
