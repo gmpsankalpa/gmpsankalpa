@@ -68,6 +68,7 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 [![wakatime](https://wakatime.com/badge/user/018d535b-bfa6-4a14-b7e8-af0ffa6e870e.svg)](https://wakatime.com/@018d535b-bfa6-4a14-b7e8-af0ffa6e870e)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## 🌐 Socials:
@@ -112,7 +113,7 @@ Visit my personal website for more information. [My Website](https://gmpsankalpa
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gmpsankalpa )
 
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ##
 <h4 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
@@ -127,9 +128,5 @@ Visit my personal website for more information. [My Website](https://gmpsankalpa
 </p>
 
 
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
  
