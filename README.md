@@ -47,6 +47,13 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 </div>
 
+### ✍️ Random Dev Quote
+<div align="center">
+ 
+> "Don't worry if it doesn't work right. If everything did, you'd be out of a job." - **Brian Kernighan**
+
+</div>
+
 ### 🔝 Top Contributed Repo
 <div align="center">
  
