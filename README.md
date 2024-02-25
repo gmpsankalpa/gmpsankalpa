@@ -11,9 +11,13 @@
 
 <h3 align="center">Welcome to my GitHub profile! Here you can find some cool projects I have helped my developers create.</h3>
 
+<div align="center">
+ 
 :computer: I'm a student <br>
 :house_with_garden: I'm from Galewela, Sri Lanka.<br>
 :books: I'm currently learning South Eastern University of Sri Lanka <br>
+
+</div>
 
 ## :hammer_and_wrench: Tools and Technologies
 
