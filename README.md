@@ -1,78 +1,103 @@
 ![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
+<!-- Header Section -->
+<h1 align="center">👋 Hello, I'm GMP Sankalpa! :rocket:</h1>
 
-<h1 align="center">:wave: Hello, I'm GMP Sankalpa!</center></h1>
+<!-- Animated Gif Section -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated gif">
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=1000&lines=Student+Of+South+Eastern+University+Of+Srilanka;Undergraduate+software+engineer;Always+learning+new+things" alt="Typing SVG" /></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">Welcome to my GitHub profile! Here you can find some cool projects I have helped my developers create.</h3>
-
+<!-- Typing Animation Section -->
 <div align="center">
- 
-:computer: I'm a student <br>
-:house_with_garden: I'm from Galewela, Sri Lanka.<br>
-:books: I'm currently learning South Eastern University of Sri Lanka <br>
-
-
-<!-- ## :hammer_and_wrench: Tools and Technologies -->
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=CD1667FF&size=25&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+GitHub;I'm+a+Passionate+Developer;Always+Exploring+New+Technologies" alt="Typing SVG" />
+  </a>
 </div>
 
-## :computer: Technologies
-I am proficient in different programming languages and technologies and am always eager to learn more! Some of the technologies I have worked with include:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated gif">
+</p>
 
-- Python
-- JavaScript
-- C++
-- CSS/HTML
-- Node.js
+<!-- Subheader Section -->
+<h3 align="center">Welcome to my GitHub profile! Here you can find some cool projects I have helped my developers create.</h3>
 
-## :brain: Skills
-As an AI assistant, my main skills include:
-- Natural Language Processing (NLP)
-- Machine Learning
-- Data Analytics
-- Virtual Assistant Development
+---
+<!-- Personal Info Section -->
+<div align="center">
+  🎓 Student | 🏡 Galewela, Sri Lanka | 📚 Studying at South Eastern University of Sri Lanka
+</div>
 
-I'm still learning and developing my skills, so if you have any suggestions or ideas for projects, feel free to send them my way!<br>
+---
+<!-- Technologies Section -->
+## <div align="center">:computer: Technologies & Languages</div>
+<p align="center">
+  I love exploring diverse programming realms and have hands-on experience with cutting-edge technologies:
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS/HTML-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+---
+<!-- Skills Section -->
+## <div align="center">:brain: Skills & Specialties</div>
+<p align="center">
+  As an AI enthusiast, I specialize in cutting-edge technologies, such as:
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-%230073A1.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23F37626.svg?style=for-the-badge&logo=machine-learning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-%231E88E5.svg?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtual%20Assistant-%234CAF50.svg?style=for-the-badge&logo=virtual-assistant&logoColor=white" />
+</p>
+
+---
+<!-- Collaboration Section -->
+## <div align="center">🚀 Let's Collaborate!</div>
+<p align="center">
+  🌟 I'm on a continuous journey of learning and honing my skills. If you have exciting project suggestions or collaboration ideas, feel free to drop them in my inbox! 🚀✨
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats:
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api?username=gmpsankalpa&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gmpsankalpa&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gmpsankalpa&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gmpsankalpa&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmpsankalpa&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 <div align="center">
  
-![](https://github-profile-trophy.vercel.app/?username=gmpsankalpa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gmpsankalpa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 <div align="center">
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 <div align="center">
  
 ![](https://github-contributor-stats.vercel.app/api?username=gmpsankalpa&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gmpsankalpa&icon=0&color=10)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true)
 
 [![wakatime](https://wakatime.com/badge/user/018d535b-bfa6-4a14-b7e8-af0ffa6e870e.svg)](https://wakatime.com/@018d535b-bfa6-4a14-b7e8-af0ffa6e870e)
 
@@ -87,12 +112,13 @@ Feel free to reach out to me on different platforms.<br>
 
 </div>
 
-## 🌐: Website
-<div align="center">
- 
-Visit my personal website for more information. [My Website](https://gmpsankalpa.xyz)
+<!-- 🌐 Website Section -->
+## 🌐 Website:
 
-</div>
+<p align="center">
+  Explore more about me on my personal website. 🚀<br>
+  <a href="https://gmpsankalpa.xyz" target="_blank">🌐 Visit My Website</a>
+</p>
 
 # 💻 Tech Stack:
 <div align="center">
@@ -101,34 +127,45 @@ Visit my personal website for more information. [My Website](https://gmpsankalpa
 
 </div>
 
+<!-- 📜 Other Section -->
 ## 📜 Other:
-<div align="center">
- 
-[![Discord Presence](https://lanyard.cnrad.dev/api/793470366521622528)](https://discord.com/users/793470366521622528)
 
-</div>
+<p align="center">
+  Connect with me on Discord and see what I'm up to! 🎮<br>
+  <a href="https://discord.com/users/793470366521622528" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/793470366521622528" alt="Discord Presence">
+  </a>
+</p>
 
+<!-- 🎶 Vibing to Section -->
 ## 🎶 Vibing to:
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315gwhrmwykd57g5njca7cbh3p6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-  
-</div>
 
-## 💰 You can help me by Donating
-<div align="center">
- 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gmpsankalpa )
+<p align="center">
+  Currently enjoying some tunes on Spotify. 🎧<br>
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315gwhrmwykd57g5njca7cbh3p6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Status">
+  </a>
+</p>
 
-</div>
+
+<!-- 💰 Donation Section -->
+## 💰 You can help me by Donating:
+
+<p align="center">
+  Support my work by buying me a coffee! ☕<br>
+  <a href="https://buymeacoffee.com/gmpsankalpa" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+</p>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Greeting Section -->
 <h4 align="center">
-𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
-𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
-
-<img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
-
+  𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝<br>
+  𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
+  <br><img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
 </h4>
 
 <p align="center">
