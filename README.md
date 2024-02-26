@@ -17,9 +17,9 @@
 :house_with_garden: I'm from Galewela, Sri Lanka.<br>
 :books: I'm currently learning South Eastern University of Sri Lanka <br>
 
-<<<<<<< HEAD
+
 <!-- ## :hammer_and_wrench: Tools and Technologies -->
-=======
+
 </div>
 
 ## :hammer_and_wrench: Tools and Technologies
