@@ -51,6 +51,10 @@ I'm still learning and developing my skills, so if you have any suggestions or i
 
 </div>
 
+## 🐍 Watch snake eating my contributions
+
+![snake gif](https://github.com/gmpsankalpa/gmpsankalpa/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 <div align="center">
  
