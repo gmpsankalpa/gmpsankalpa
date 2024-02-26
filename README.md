@@ -11,11 +11,19 @@
 
 <h3 align="center">Welcome to my GitHub profile! Here you can find some cool projects I have helped my developers create.</h3>
 
+<div align="center">
+ 
 :computer: I'm a student <br>
 :house_with_garden: I'm from Galewela, Sri Lanka.<br>
 :books: I'm currently learning South Eastern University of Sri Lanka <br>
 
+<<<<<<< HEAD
 <!-- ## :hammer_and_wrench: Tools and Technologies -->
+=======
+</div>
+
+## :hammer_and_wrench: Tools and Technologies
+>>>>>>> 53811b6126965403333a2cadea3eb51a44963bb2
 
 ## :computer: Technologies
 I am proficient in different programming languages and technologies and am always eager to learn more! Some of the technologies I have worked with include:
