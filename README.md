@@ -73,7 +73,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=gmpsankalpa&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gmpsankalpa&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmpsankalpa&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=gmpsankalpa&radius=16&theme=react&area=true&order=5&height=300)
 </div>
 
 
