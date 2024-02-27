@@ -136,8 +136,11 @@ Feel free to reach out to me on different platforms.<br>
 
 <p align="center">
   Explore more about me on my personal website. 🚀<br>
-  <a href="https://gmpsankalpa.xyz" target="_blank">🌐 Visit My Website</a>
+  <a href="https://gmpsankalpa.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-%231DA1F2.svg?style=for-the-badge&logo=link&logoColor=white" />
+  </a>
 </p>
+
 
 ## 💻 Tech Stack:
 <div align="center">
