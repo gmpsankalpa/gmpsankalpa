@@ -100,8 +100,8 @@
 
 ## 🏆 GitHub Trophies:
 <div align="center">
- 
-![](https://github-profile-trophy.vercel.app/?username=gmpsankalpa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gmpsankalpa&theme=radical)](https://github.com/gmpsankalpa/github-profile-trophy)
 
 </div>
 
