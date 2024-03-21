@@ -39,11 +39,13 @@
 
 <div align="center">
 
-<h3>Profile views</h3>
+<h3>🔵🟢💠Profile views💠🟢🔵</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{gmpsankalpa}/count.svg)
 
-![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true)
+<!-- ![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true) -->
+
+<h3>🔵🟢💠VS Code work hours💠🟢🔵</h3>
 
 [![wakatime](https://wakatime.com/badge/user/018d535b-bfa6-4a14-b7e8-af0ffa6e870e.svg)](https://wakatime.com/@018d535b-bfa6-4a14-b7e8-af0ffa6e870e)
 
