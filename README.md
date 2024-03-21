@@ -39,7 +39,7 @@
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/{gmpsankalpa}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{gmpsankalpa}/count.svg) -->
 
 ![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true)
 
