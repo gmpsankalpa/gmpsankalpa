@@ -90,8 +90,8 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gmpsankalpa&theme=radical&show_icons=true&hide_border=false&count_private=true" /> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmpsankalpa&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gmpsankalpa&theme=radical&show_icons=true&hide_border=true&count_private=true" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmpsankalpa&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmpsankalpa&theme=radical&hide_border=false" /> </p>
 
 <div align="center">
