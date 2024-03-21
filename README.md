@@ -24,6 +24,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated gif">
 </p>
 
+
+
 <!-- Subheader Section -->
 <h3 align="center">Welcome to my GitHub profile! Here you can find some cool projects I have helped my developers create.</h3>
 
@@ -32,6 +34,18 @@
 <h4 align="center">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"> Undergraduate | <img src="https://cdn3.emoji.gg/emojis/5982-snowsgiving-partyhouse.gif" alt="house" width="32" height="32"> Galewela, Sri Lanka | <img src="https://cdn3.emoji.gg/emojis/6449-spellbook.gif" alt="book" width="32" height="32"> Studying at South Eastern University of Sri Lanka
 </h4>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/{gmpsankalpa}/count.svg)
+
+![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true)
+
+[![wakatime](https://wakatime.com/badge/user/018d535b-bfa6-4a14-b7e8-af0ffa6e870e.svg)](https://wakatime.com/@018d535b-bfa6-4a14-b7e8-af0ffa6e870e)
+
+</div>
 
 ---
 <!-- Technologies Section -->
@@ -135,11 +149,6 @@
 <div align="center">
  
 ![](https://github-contributor-stats.vercel.app/api?username=gmpsankalpa&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true)
-
-[![wakatime](https://wakatime.com/badge/user/018d535b-bfa6-4a14-b7e8-af0ffa6e870e.svg)](https://wakatime.com/@018d535b-bfa6-4a14-b7e8-af0ffa6e870e)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
