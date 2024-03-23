@@ -226,6 +226,11 @@ Feel free to reach out to me on different platforms.<br>
 </h4>
 
 ---
+<p align="center">
+<b>
+  Repo Details 🤙
+</b>
+</p>
 
 <div align="center">
 
@@ -233,6 +238,20 @@ Feel free to reach out to me on different platforms.<br>
    ![GitHub forks](https://img.shields.io/github/forks/gmpsankalpa/gmpsankalpa?&labelColor=black&color=0fb9b1&style=for-the-badge)
    ![GitHub stars](https://img.shields.io/github/stars/gmpsankalpa/gmpsankalpa?&labelColor=black&color=f7b731&style=for-the-badge)
    ![GitHub LastCommit](https://img.shields.io/github/last-commit/gmpsankalpa/gmpsankalpa?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+
+</div>
+
+<p align="center">
+<b>
+  Workflows status badges 🤖
+</b>
+</p>
+
+<div align="center">
+
+[![pages-build-deployment](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/pages/pages-build-deployment)
+[![Generate Snake](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/snake.yml/badge.svg)](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/snake.yml)
+[![GitHub-Profile-3D-Contrib](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/profile-3d.yml)
 
 </div>
 
