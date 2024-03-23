@@ -249,7 +249,7 @@ Feel free to reach out to me on different platforms.<br>
 
 <div align="center">
 
-<!-- [![pages-build-deployment](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/pages/pages-build-deployment) -->
+[![pages-build-deployment](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/pages/pages-build-deployment)
 [![Generate Snake](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/snake.yml/badge.svg)](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/snake.yml)
 [![GitHub-Profile-3D-Contrib](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/gmpsankalpa/gmpsankalpa/actions/workflows/profile-3d.yml)
 
