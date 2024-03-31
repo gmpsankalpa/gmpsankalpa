@@ -150,10 +150,17 @@
 </div>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" alt="🎆" width="35" height="35"> Top Contributed Repo:</h2>
-<div align="center">
+<!-- <div align="center"> -->
  
-![](https://github-contributor-stats.vercel.app/api?username=gmpsankalpa&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=gmpsankalpa&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div> -->
+<div width="100%" align="center"><a href="https://github.com/gmpsankalpa/qr-code-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gmpsankalpa&repo=qr-code-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gmpsankalpa/Barcode-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gmpsankalpa&repo=Barcode-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/gmpsankalpa/gpa-calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gmpsankalpa&repo=gpa-calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gmpsankalpa/first-contributions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gmpsankalpa&repo=first-contributions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
