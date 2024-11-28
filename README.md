@@ -207,9 +207,8 @@ Feel free to reach out to me on different platforms.<br>
 
 <p align="center">
   Currently enjoying some tunes on Spotify. 🎧<br>
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315gwhrmwykd57g5njca7cbh3p6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Status">
-  </a>
+  
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315gwhrmwykd57g5njca7cbh3p6y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="Spotify Profile">
 </p>
 
 <!-- 💰 Donation Section -->
