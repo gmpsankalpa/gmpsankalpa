@@ -41,9 +41,9 @@
 
 <h3>🔵💠Profile views💠🔵</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{gmpsankalpa}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{gmpsankalpa}/count.svg) -->
 
-<!-- ![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true) -->
+![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true)
 
 <h3>🔵💠VS Code work hours💠🔵</h3>
 
